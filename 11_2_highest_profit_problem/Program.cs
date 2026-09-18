@@ -9,6 +9,9 @@ public class Program
     }
 }
 
+// NOTE: needs optimization, as this is the robust solution which failed on leetcode due to too much time execution
+
+
 public class Solution
 {
     public int MaxProfit(int[] prices)
